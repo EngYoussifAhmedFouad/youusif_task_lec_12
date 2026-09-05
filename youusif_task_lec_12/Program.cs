@@ -7,10 +7,7 @@ namespace youusif_task_lec_12
     {
         static void Main(string[] args)
         {
-            
-
-
-
+     
             char choice = '&';
             List<int> list = new List<int>();
 
